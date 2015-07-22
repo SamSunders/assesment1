@@ -1,0 +1,15 @@
+.firstClickButton {
+	background-color: #555;
+	color: white;
+	padding: 20px;
+	text-decoration: none;
+}
+
+#container {
+	padding: 20px;
+}
+
+#data-button-toggle {
+	margin-top: 20px;
+	background-color: green;
+}
